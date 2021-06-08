@@ -12,7 +12,7 @@ namespace EmpresaDeInternet
         {
             get {return type;}
         }
-        public float Prive
+        public float Price
         {
             get {return price;}
         }
