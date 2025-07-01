@@ -1,4 +1,4 @@
-# Trabajo integrador de Algoritmos y Programacion
+# Trabajo integrador de Algoritmos y Programacion - Universidad Nacional Arturo Jauretche 2021
 
 ## Reglas del codigo
 
